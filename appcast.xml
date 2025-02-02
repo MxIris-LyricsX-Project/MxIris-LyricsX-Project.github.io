@@ -6,19 +6,19 @@
         <language>en</language>
         <item>
             <title>1.7.3</title>
-            <pubDate>Sun, 02 Feb 2025 13:36:47 +0800</pubDate>
-            <sparkle:version>2501</sparkle:version>
+            <pubDate>Sun, 02 Feb 2025 13:58:20 +0800</pubDate>
+            <sparkle:version>2502</sparkle:version>
             <sparkle:shortVersionString>1.7.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/MxIris-LyricsX-Project/LyricsX/releases/download/v1.7.3/LyricsX_1.7.3+2501.zip" length="5745458" type="application/octet-stream" sparkle:edSignature="HghcAIJQOkgz6nIH1ld2+uygKOG+pA4P0JBGA3tAf1uLrSaxrXCjv2AxGvnwHgRDztORrbOAs6VLg4gANrK6Aw=="/>
+            <enclosure url="https://github.com/MxIris-LyricsX-Project/LyricsX/releases/download/v1.7.3/LyricsX_1.7.3+2502.zip" length="5762035" type="application/octet-stream" sparkle:edSignature="Tf46hrH2Qb0I0JjyOopDEZeLxvJdJCeXkrYAzNTGYbR5DR+/GNhOr9edwDwhMvPhiwmRV5IMqhzDEaq47TJ+Cw=="/>
         </item>
         <item>
             <title>1.7.2</title>
-            <pubDate>Sun, 02 Feb 2025 12:49:58 +0800</pubDate>
+            <pubDate>Sun, 02 Feb 2025 13:56:44 +0800</pubDate>
             <sparkle:version>2501</sparkle:version>
             <sparkle:shortVersionString>1.7.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/MxIris-LyricsX-Project/LyricsX/releases/download/v1.7.2/LyricsX_1.7.2+2501.zip" length="5762001" type="application/octet-stream" sparkle:edSignature="HHNRsmWIMi8LAduU+1J8rH/oBvjc9YcDkYUBLHijXctloymRvO0jXJkl9zRy233C1U2kkZWndFYkGqf/yu2RAg=="/>
+            <enclosure url="https://github.com/MxIris-LyricsX-Project/LyricsX/releases/download/v1.7.2/LyricsX_1.7.2+2501.zip" length="5745440" type="application/octet-stream" sparkle:edSignature="wc6tdMyCcskFUsfxsBVAFu20cz68KWyd/dfJAkJkDOLX7bR9BnygbKHyWyolCesBWukq30ArTZRFd3LkRCteDw=="/>
         </item>
         <item>
             <title>1.7.1</title>
