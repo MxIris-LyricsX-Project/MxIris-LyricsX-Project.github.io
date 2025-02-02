@@ -10,7 +10,7 @@
             <sparkle:version>2501</sparkle:version>
             <sparkle:shortVersionString>1.7.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/MxIris-LyricsX-Project/LyricsX/releases/download/v1.7.2/LyricsX-1.7.2.zip" sparkle:version="2501" sparkle:shortVersionString="1.7.2" length="5762001" type="application/octet-stream"/>
+            <enclosure url="https://github.com/MxIris-LyricsX-Project/LyricsX/releases/download/v1.7.2/LyricsX-1.7.2.zip" length="5762001" type="application/octet-stream" sparkle:edSignature="HHNRsmWIMi8LAduU+1J8rH/oBvjc9YcDkYUBLHijXctloymRvO0jXJkl9zRy233C1U2kkZWndFYkGqf/yu2RAg=="/>
         </item>
         <item>
             <title>1.7.1</title>
