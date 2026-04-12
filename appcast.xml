@@ -5,6 +5,22 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
+            <title>1.8.1</title>
+            <pubDate>Fri, 03 Apr 2026 23:16:51 +0800</pubDate>
+            <sparkle:version>2908</sparkle:version>
+            <sparkle:shortVersionString>1.8.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/MxIris-LyricsX-Project/LyricsX/releases/download/v1.8.1/LyricsX_1.8.1+2908.zip" length="8579366" type="application/octet-stream" sparkle:edSignature="ZdvCjlTS1I0REh548mkjWiOkHELP9vBHi8d2H5iecpYwtutoLlNh40M85zk8rQpHBRmG1ThToTizt7cf4zvuBA=="/>
+        </item>
+        <item>
+            <title>1.8.0</title>
+            <pubDate>Sat, 21 Mar 2026 14:33:49 +0800</pubDate>
+            <sparkle:version>2908</sparkle:version>
+            <sparkle:shortVersionString>1.8.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/MxIris-LyricsX-Project/LyricsX/releases/download/v1.8.0/LyricsX.2026-03-21.12-32-44.zip" length="8586110" type="application/octet-stream" sparkle:edSignature="zd2DSKl3XQ4SyPpdHwtb3S3lZfDyUJdZfl3VB9SLCEano6EfEbZgkWqEwRTavxWZtLgw4NIg9IJHAYJlwb6tDw=="/>
+        </item>
+        <item>
             <title>1.7.4</title>
             <pubDate>Thu, 13 Feb 2025 22:24:13 +0800</pubDate>
             <sparkle:version>2563</sparkle:version>
